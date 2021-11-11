@@ -1,0 +1,8 @@
+Added Net: Name=GND
+Added Net: Name=INT
+Added Net: Name=NetC4_0
+Added Net: Name=NetJ2_1
+Added Net: Name=SCK
+Added Net: Name=SDA
+Added Net: Name=VDD
+Added Class: Name=s1_sensor

@@ -1,0 +1,42 @@
+Added Component: Designator=C1(0805 Passive)
+Added Component: Designator=C2(0805 Passive)
+Added Component: Designator=C3(0805 Passive)
+Added Component: Designator=C4(0805 Passive)
+Added Component: Designator=J1(Header-3)
+Added Component: Designator=J2(Header-2)
+Added Component: Designator=R1(0805 Passive)
+Added Component: Designator=R2(0805 Passive)
+Added Component: Designator=U1(BHI160b)
+Added Component: Designator=U2(Header-3)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=INT Pin=J1-3
+Added Pin To Net: NetName=INT Pin=U1-12
+Added Net: Name=INT
+Added Pin To Net: NetName=NetC4_0 Pin=U1-10
+Added Net: Name=NetC4_0
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=SCK Pin=J1-1
+Added Pin To Net: NetName=SCK Pin=R2-2
+Added Pin To Net: NetName=SCK Pin=U1-22
+Added Net: Name=SCK
+Added Pin To Net: NetName=SDA Pin=J1-2
+Added Pin To Net: NetName=SDA Pin=R1-1
+Added Pin To Net: NetName=SDA Pin=U1-24
+Added Net: Name=SDA
+Added Pin To Net: NetName=VDD Pin=C2-1
+Added Pin To Net: NetName=VDD Pin=C3-1
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Pin To Net: NetName=VDD Pin=R2-1
+Added Pin To Net: NetName=VDD Pin=U1-8
+Added Pin To Net: NetName=VDD Pin=U1-13
+Added Pin To Net: NetName=VDD Pin=U2-3
+Added Net: Name=VDD

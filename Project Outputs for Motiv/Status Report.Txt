@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Motiv.PrjPcb]
+   Generated File[MotivPCB.TXT]
+   Generated File[MotivPCB.LDP]
+   Generated File[MotivPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:12:23 AM On 2021-10-31
